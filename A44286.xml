@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word of counsel, or, A warning to all young convinced Friends, and others whom it may concern, that are called forth to bear a testimony for the Lord in the case of tythe which may also serve for answer to a late pamphlet, entituled, The lawfulness of tythes, by W.J., as it concerns the Quakers conscience in the case, the allegations thereof for the divine right of tythe being sufficiently confuted in divers treatises not taken notice of in the said pamphlet / Nicholas Homwood.</title>
+            <author>Homwood, Nicholas, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44286</idno>
+            <idno type="STC">Wing H2579</idno>
+            <idno type="STC">ESTC R7886</idno>
+            <idno type="EEBO-CITATION">13518572</idno>
+            <idno type="OCLC">ocm 13518572</idno>
+            <idno type="VID">99888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 790:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word of counsel, or, A warning to all young convinced Friends, and others whom it may concern, that are called forth to bear a testimony for the Lord in the case of tythe which may also serve for answer to a late pamphlet, entituled, The lawfulness of tythes, by W.J., as it concerns the Quakers conscience in the case, the allegations thereof for the divine right of tythe being sufficiently confuted in divers treatises not taken notice of in the said pamphlet / Nicholas Homwood.</title>
+                  <author>Homwood, Nicholas, d. 1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jeffery, William, 1616-1693. --  Lawfulness of tithes.</term>
+               <term>Tithes --  England --  Early works to 1800.</term>
+               <term>Tithes --  Early works to 1800.</term>
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99888:1"/>
+            <p>A WORD OF COUNSEL OR A Warning to All Young-Convinced Friends, and Others whom it may concern; that are called forth to bear a Teſtimony for the LORD in the CASE of TYTHE. Which may alſo ſerve for <hi>Anſwer</hi> to a late Pam<g ref="char:EOLhyphen"/>phlet, entituled, <hi>The Lawfulneſs of Tythes, by</hi> W. J. as it concerns the <hi>Quakers</hi> Conſcience in the Caſe; the Al<g ref="char:EOLhyphen"/>legations thereof for the Divine Right of <hi>Tyths</hi> be<g ref="char:EOLhyphen"/>ing ſufficiently Confuted in divers Treatiſes, not taken notice of in the ſaid <hi>Pamphlet.</hi>
+            </p>
+            <p>Nicholas Homwood.</p>
+            <q>
+               <bibl>
+                  <hi>Hebr. 7.12.</hi>
+               </bibl>
+               <p>For the Prieſthood being Changed, there is made of Neceſſity a Change alſo of the Law.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Hebr. 8.1, 2.</hi>
+               </bibl>
+               <p>Now, of the Things which we have ſpoken, this is the Sum, We have an High Prieſt, who is ſet on the Right Hand of the Throne of the Majeſty in the Heavens; a Mini<g ref="char:EOLhyphen"/>ſter of the Sanctuary, and of the True Tabernacle, which the Lord hath pitched, and not man.</p>
+            </q>
+            <p>Printed in the Year 1675.</p>
+            <pb facs="tcp:99888:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:99888:2"/>
+            <head>A Word of Counſel: OR, <hi>A</hi> Warning <hi>to all</hi> Young-Convinced Friends, <hi>or Others, whom it may con<g ref="char:EOLhyphen"/>cern, that are called forth to bear a Teſtimony for the Lord in the</hi> Caſe <hi>of</hi> TYTHES.</head>
+            <p>DO not flee the <hi>Croſs,</hi> leſt thou miſs of the <hi>Crown;</hi> and have a Care, that the Enemy and Adver<g ref="char:EOLhyphen"/>ſary of thy Soul do not betray thee; he will attempt and preſent many things to thy View, to hin<g ref="char:EOLhyphen"/>der thee from the Work thou art called to: Therefore ſtand upon thy Watch diligently, and reſiſt him, and keep to that which makes manifeſt, which is Light, leſt thou be Beguiled (as I was) by that ſubtil Ser<g ref="char:EOLhyphen"/>pent, which is called the <hi>Devil</hi> and <hi>Satan.</hi>
+            </p>
+            <p>When the Lord God, by the Light of his Son Chriſt Jeſus, had made it manifeſt to me, <hi>That Tythe was not to be Payed;</hi> and <hi>that they that Payed Tythe, and they that Took Tythe, Denyed Chriſt, as to the End of his Coming,</hi> who hath put an End to all Shadows whatſoever; for he is the Subſtance; and where the Subſtance Chriſt Jeſus is truly witneſſed, all Shadows flee away: So, there was Life and Death, Good and Evil, ſet before me; <hi>if I joyned to that which was Good, Happineſs would
+<pb n="4" facs="tcp:99888:3"/>attend me; but if to that which was Evil, I ſhould loſe my Re<g ref="char:EOLhyphen"/>ward:</hi> And in theſe my Meditations the Enemy pre<g ref="char:EOLhyphen"/>ſents himſelf, and appears in this manner, <hi>Hath God ſet Good and Evil before thee? and hath he ſhewed to thee, That they that pay Tythe therein Deny Chriſt to be Come? is it not ſaid likewiſe, He that do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h not provide for his Family, is worſe then an</hi> Infidel? <hi>And thou haſt many Children, and a great Family to look after; if thou Denyeſt</hi> Tythe, <hi>thou wilt be caſt into Priſon; and what then will become of thy Children? they muſt ſuffer:</hi> This was the Voice of the Serpent to me; and I not ſtanding in the Croſs, but hearkening to it, was beguiled and betrayed; for then the Conſulting Part got up, and led me into ma<g ref="char:EOLhyphen"/>ny Reaſonings and Queſtionings, and ſo loſt my Con<g ref="char:EOLhyphen"/>dition, and fell under the Power of the Enemy, which deceived me, and I was deceived, and paid <hi>Tythe</hi> that Year; but I deſire it may be a <hi>Warning</hi> to all whoſe Hearts the Lord hath opened in any meaſure concern<g ref="char:EOLhyphen"/>ing <hi>Tythe,</hi> and for their ſakes is this given forth: Oh! do not conſult with Fleſh and Blood, neither let the Reaſoning Part get up; but ſtand in the Croſs, and keep to the firſt Motion, that openeth the thing to thee, leſt the Enemy prevail, and ſo bring thee into terrible Bondage and Slavery, as he did me; for, in ſo doing, I did greatly increaſe the Anger of the Lord againſt me, and the Terrours of the Almighty took hold of me, which terribly ſhook the Earth, inſo<g ref="char:EOLhyphen"/>much that when it was Morning, I longed for Night; and when Night hath come. I deſired Morning; and the Fire of the Lord's Indignation was kindled within me; my Exerciſe was very great, and a Bitter Cup was my Portion, which was a Juſt Recompence of my Reward? And thus it was with me for many Moneths,
+<pb n="5" facs="tcp:99888:3"/>and a ſore and grievous Travel I went under for this my <hi>Diſobedience;</hi> and in this my great Diſtreſs, I ſought the Lord with many Tears; and deſired, <hi>That he would not cut off my Life in this Condition; if he did, I ſhould be of all men moſt Miſerable:</hi> And in this my great Di<g ref="char:EOLhyphen"/>ſtreſs and bowed-down Condition, I begged of the Lord, <hi>That he would give me another Opportunity, and try me once more;</hi> promiſing, <hi>That I would give up all for the Truth's ſake, and be Faithful to the Death, ſo that I might enjoy the Immortal Crown of Life:</hi> I waiting low in this Condition, in Meekneſs of Spirit, the Lord heard me, and had Compaſſion of his own, which then breathed after him, and gave me my Deſire, that was, <hi>Another Opportunity, that I might bear my Teſtimony againſt that Ever to be denyed Thing of</hi> Tythe: So the Time came, and I was freely given up, not looking out at any thing, though my Beſetments were many, by that old Serpent, which at firſt drew my Mind out; but the Great God gave me Power, as my Eye was kept ſin<g ref="char:EOLhyphen"/>gle to him, againſt all the Wiles of the Enemy, which were many, both Within and Without; the Pre<g ref="char:EOLhyphen"/>ſence of the Lord was daily with me, and his Power<g ref="char:EOLhyphen"/>ful Arm did mightily uphold me, although he ſuffered the Enemy to try me, and caſt me into Priſon, where I have been this TEN YEARS; it ſeems to be but as a Little Time, by reaſon of that Endleſs Love and Life of God, which he hath manifeſted unto me in his Son, Chriſt Jeſus; who hath Refreſhed my Soul day by day, ever ſince that good Reſolution was taken up by me, <hi>To give up all for the Truth's ſake:</hi> Six Troubles hath the Lord delivered me out of, and in Seven he will not leave me, although my Exerciſes have been many, it hath been for the Tryal of my Faith and Obedience
+<pb n="6" facs="tcp:99888:4"/>to God: Happy was the Day that ever I was caſt in<g ref="char:EOLhyphen"/>to Priſon; I have no cauſe to Repent; <hi>Praiſes end<g ref="char:EOLhyphen"/>leſs to the Lord God for evermore,</hi> ſaith my Soul; although the Adverſary of my Soul preſented heavy things to my View, <hi>What would become of my Children, if I were caſt into Priſon?</hi> as if there would have been a Want: But I have ſeen by the Light of Chriſt, <hi>That he was a Lying Serpent;</hi> for the Lord God hath (ever ſince that Day that my Face was turned <hi>Sion</hi>-wards). Bleſſed and Preſerved me and mine, and hath given us all things neceſſary for a Comfortable Being in this Life: And therefore, None be diſcouraged, nor look out at any thing without; but give up all in true Obedience to the Lord; let not theſe Outward Periſhing Things hinder Better Things to come: For, of a Truth God is with us who are faithful; and it is his Cauſe we ſtand for and ſuffer for, who will uphold and carry through to the End all thoſe who are freely given up in this Matter againſt all their Oppoſers and Perſecu<g ref="char:EOLhyphen"/>tors whatſoever: This is my Teſtimony, and this I am a Witneſs of in meaſure. Happy are all thoſe who ſuffer for very Conſcience and Chriſt's ſake; they that Suffer for Chriſt's ſake, ſhall aſſuredly Reign with him,</p>
+            <p>Therefore, dear Friends, I leave it upon you all, who are any wayes concerned in this Matter, <hi>That there be no Under-hand, nor Double-dealing, in any meaſure;</hi> for that wounds the Life of thoſe whoſe Teſtimony ſtands firm, and ſtrengtheneth the Hands of the Enemy; and this I have felt, in ſome meaſure, ſince I have been a Priſoner, which conſtrains me thus to write: There<g ref="char:EOLhyphen"/>fore, be Careful for time to come, and eaſe me of my
+<pb n="7" facs="tcp:99888:4"/>Burden, and bear a Faithful and publick Teſtimony againſt that Spirit of Antichriſt, which rules in the Hearts of the Children of Diſobedience: I ſay, <hi>Fall not under any thing which Diſhonoureth the Lord God; and have a Care of Grieving his People; but be Valiant for the Truth upon Earth, and Great will be your Reward.</hi>
+            </p>
+            <p>But happily ſome may ſay, <hi>Mine is to an</hi> Impropria<g ref="char:EOLhyphen"/>tor, <hi>and therefore I cannot ſee ſo clearly to the End of it as to the</hi> Prieſt.</p>
+            <p>My Friend, This was my State and Condition for ſome time; I paid to the Prieſt and Impropriator, and the Prieſt I could and did Deny ſome time before I could ſee clearly to the End of the other, by reaſon of the Vail that then covered my Heart, and darken<g ref="char:EOLhyphen"/>ed my Underſtanding, ſo that I could not ſee clearly to the End of thoſe things which Chriſt had put an End unto; but as I waited low in the Light of Chriſt, the Son of God, the Vail was taken off, and then I ſaw clearly and perfectly, <hi>The One was to be Denyed as well as the Other; and if I paid the Impropriator, I might as well pay the Prieſt;</hi> for the Ground is One in both; it is as really <hi>Tythe</hi> to the Impropriator, as to the Prieſt; and it was <hi>Tythe</hi> I could not Uphold, and great Cauſe I had for it, becauſe in ſo doing <hi>I Denyed the Lord of Life;</hi> and Chriſt ſaith, <hi>He that Denyeth me before Men, him will I Deny before my Father which is in Heaven:</hi> There<g ref="char:EOLhyphen"/>fore I adviſe all Friends, That they ſtand Clear in this Thing; for, <hi>Such as you ſow, ſuch muſt you reap.</hi> And this is my Teſtimony for the Lord God, <hi>They that Up<g ref="char:EOLhyphen"/>hold any One, are guilty of Both.</hi>
+            </p>
+            <div type="poem">
+               <pb n="8" facs="tcp:99888:5"/>
+               <lg>
+                  <l>IT is my Faith, I do believe,</l>
+                  <l>That <hi>Tythe</hi> muſt wholely down,</l>
+                  <l>Becauſe the Lord of Life is come,</l>
+                  <l>Who'l raze them to the Ground:</l>
+                  <l>Therefore let all ſtand clear in it;</l>
+                  <l>For long they cannot ſtand,</l>
+                  <l>The Cry of the Oppreſſed has been ſuch</l>
+                  <l>The Time is near at hand.</l>
+                  <l>The Lord Regard hath to his Seed,</l>
+                  <l>Whoſe Breathings are ſo ſtrong,</l>
+                  <l>That cry alone to him for Help,</l>
+                  <l>To eaſe them of their Wrong.</l>
+                  <l>So, none be Faithleſs in this Thing;</l>
+                  <l>For long they can't indure:</l>
+                  <l>The Time doth ſpend, and waſte apace,</l>
+                  <l>Of which thou may'ſt be ſure,</l>
+                  <l>That down they muſt, even to the Duſt,</l>
+                  <l>Becauſe their Time is ended:</l>
+                  <l>The Lord hath put an End to them;</l>
+                  <l>Let none therefore be offended.</l>
+                  <l>But as for us, who have ſuffered thus,</l>
+                  <l>In this we can Rejoyce.</l>
+                  <l>That of all Families in the Earth,</l>
+                  <l>Of us the Lord made Choice,</l>
+                  <l>To ſtand as Witneſſes for him,</l>
+                  <l>Who is our Lord and King;</l>
+                  <l>We cannot flee the Croſs therein,</l>
+                  <l>But Praiſes to him ſing,</l>
+                  <l>Who is our Strength and Stay and all,</l>
+                  <l>Our Helper he is ſtill;</l>
+                  <l>And we are freely given up</l>
+                  <l>To be Subject to his Will.</l>
+               </lg>
+               <closer>
+                  <dateline>From the <hi>Kings-Bench</hi> Priſon in <date>the 9th Mo<g ref="char:EOLhyphen"/>neth, 1675.</date>
+                  </dateline>
+                  <signed>
+                     <hi>By One who is a Lover of the Truth, and made willing to Suffer for the ſame, and to follow the Lamb whi<g ref="char:EOLhyphen"/>therſoever he goeth,</hi> Nicholas Homwood.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
